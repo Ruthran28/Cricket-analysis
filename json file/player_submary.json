@@ -1,0 +1,2158 @@
+[
+    {
+        "name": "Rahmanullah Gurbaz",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Hazratullah Zazai",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Ibrahim Zadran",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Mohammad Ishaq",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Najibullah Zadran",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Rashid Khan",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly"
+    },
+    {
+        "name": "Azmatullah Omarzai",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Gulbadin Naib",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Karim Janat",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Mohammad Nabi",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Nangeyalia Kharote",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Fareed Ahmad",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Fazalhaq Farooqi",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Naveen-ul-Haq",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Noor Ahmad",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Wrist spin"
+    },
+    {
+        "name": "Mujeeb Ur Rahman",
+        "Team": "Afghanistan Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Tim David",
+        "Team": "Australia Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Travis Head",
+        "Team": "Australia Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Josh Inglis",
+        "Team": "Australia Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Matthew Wade",
+        "Team": "Australia Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "David Warner",
+        "Team": "Australia Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Mitchell Marsh",
+        "Team": "Australia Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Cameron Green",
+        "Team": "Australia Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Glenn Maxwell",
+        "Team": "Australia Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Marcus Stoinis",
+        "Team": "Australia Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Ashton Agar",
+        "Team": "Australia Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Pat Cummins",
+        "Team": "Australia Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Nathan Ellis",
+        "Team": "Australia Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Josh Hazlewood",
+        "Team": "Australia Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Mitchell Starc",
+        "Team": "Australia Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast"
+    },
+    {
+        "name": "Adam Zampa",
+        "Team": "Australia Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly"
+    },
+    {
+        "name": "Najmul Hossain Shanto",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Jaker Ali",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Litton Das",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Tanzid Hasan",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Towhid Hridoy",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Mahedi Hasan",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Mahmudullah",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Shakib Al Hasan",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Soumya Sarkar",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Taskin Ahmed",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Mustafizur Rahman",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Rishad Hossain",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly"
+    },
+    {
+        "name": "Shoriful Islam",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Tanvir Islam",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Tanzim Hasan Sakib",
+        "Team": "Bangladesh Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Navneet Dhaliwal",
+        "Team": "Canada Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Aaron Johnson",
+        "Team": "Canada Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Shreyas Movva",
+        "Team": "Canada Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Ravinderpal Singh",
+        "Team": "Canada Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Saad Bin Zafar",
+        "Team": "Canada Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Dilpreet Bajwa",
+        "Team": "Canada Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Junaid Siddiqui",
+        "Team": "Canada Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Nicholas Kirton",
+        "Team": "Canada Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Pargat Singh",
+        "Team": "Canada Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Rayyan Pathan",
+        "Team": "Canada Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Harsh Thaker",
+        "Team": "Canada Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Nikhil Dutta",
+        "Team": "Canada Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Jeremy Gordon",
+        "Team": "Canada Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Dilon Heyliger",
+        "Team": "Canada Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Rishiv Joshi",
+        "Team": "Canada Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium fast"
+    },
+    {
+        "name": "Kaleem Sana",
+        "Team": "Canada Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium fast"
+    },
+    {
+        "name": "Jos Buttler",
+        "Team": "England Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Jonny Bairstow",
+        "Team": "England Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Harry Brook",
+        "Team": "England Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Ben Duckett",
+        "Team": "England Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Phil Salt",
+        "Team": "England Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Moeen Ali",
+        "Team": "England Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Sam Curran",
+        "Team": "England Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast"
+    },
+    {
+        "name": "Will Jacks",
+        "Team": "England Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Liam Livingstone",
+        "Team": "England Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak, Legbreak"
+    },
+    {
+        "name": "Jofra Archer",
+        "Team": "England Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Tom Hartley",
+        "Team": "England Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Chris Jordan",
+        "Team": "England Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Adil Rashid",
+        "Team": "England Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Reece Topley",
+        "Team": "England Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Mark Wood",
+        "Team": "England Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Rohit Sharma",
+        "Team": "India Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Yashasvi Jaiswal",
+        "Team": "India Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Virat Kohli",
+        "Team": "India Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Rishabh Pant",
+        "Team": "India Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Sanju Samson",
+        "Team": "India Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Suryakumar Yadav",
+        "Team": "India Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium, Right arm Offbreak"
+    },
+    {
+        "name": "Hardik Pandya",
+        "Team": "India Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Shivam Dube",
+        "Team": "India Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Ravindra Jadeja",
+        "Team": "India Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Axar Patel",
+        "Team": "India Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Arshdeep Singh",
+        "Team": "India Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast"
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "Team": "India Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Yuzvendra Chahal",
+        "Team": "India Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly"
+    },
+    {
+        "name": "Kuldeep Yadav",
+        "Team": "India Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Wrist spin"
+    },
+    {
+        "name": "Mohammed Siraj",
+        "Team": "India Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Ross Adair",
+        "Team": "Ireland Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Andy Balbirnie",
+        "Team": "Ireland Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Neil Rock",
+        "Team": "Ireland Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Harry Tector",
+        "Team": "Ireland Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Lorcan Tucker",
+        "Team": "Ireland Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Paul Stirling",
+        "Team": "Ireland Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Mark Adair",
+        "Team": "Ireland Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Curtis Campher",
+        "Team": "Ireland Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Gareth Delany",
+        "Team": "Ireland Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly"
+    },
+    {
+        "name": "George Dockrell",
+        "Team": "Ireland Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Graham Hume",
+        "Team": "Ireland Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Josh Little",
+        "Team": "Ireland Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Barry McCarthy",
+        "Team": "Ireland Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Ben White",
+        "Team": "Ireland Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Craig Young",
+        "Team": "Ireland Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Nikolaas Davin",
+        "Team": "Namibia Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Zane Green",
+        "Team": "Namibia Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "JP Kotze",
+        "Team": "Namibia Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Malan Kruger",
+        "Team": "Namibia Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Dylan Leicher",
+        "Team": "Namibia Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Gerhard Erasmus",
+        "Team": "Namibia Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "JJ Smit",
+        "Team": "Namibia Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium fast"
+    },
+    {
+        "name": "Jan Frylinck",
+        "Team": "Namibia Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Michael van Lingen",
+        "Team": "Namibia Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium, Slow Left arm Orthodox"
+    },
+    {
+        "name": "David Wiese",
+        "Team": "Namibia Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Peter-Daniel Blignaut",
+        "Team": "Namibia Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Jack Brassell",
+        "Team": "Namibia Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Tangeni Lungameni",
+        "Team": "Namibia Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium"
+    },
+    {
+        "name": "Bernard Scholtz",
+        "Team": "Namibia Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Ben Shikongo",
+        "Team": "Namibia Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Ruben Trumpelmann",
+        "Team": "Namibia Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast"
+    },
+    {
+        "name": "Aasif Sheikh",
+        "Team": "Nepal Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Dipendra Singh Airee",
+        "Team": "Nepal Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium, Right arm Offbreak"
+    },
+    {
+        "name": "Kushal Bhurtel",
+        "Team": "Nepal Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly"
+    },
+    {
+        "name": "Sundeep Jora",
+        "Team": "Nepal Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Anil Sah",
+        "Team": "Nepal Squad",
+        "Player Role": "Wicketkeeper",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Rohit Paudel",
+        "Team": "Nepal Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Gulsan Jha",
+        "Team": "Nepal Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Karan KC",
+        "Team": "Nepal Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Kushal Malla",
+        "Team": "Nepal Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Sompal Kami",
+        "Team": "Nepal Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Pratis GC",
+        "Team": "Nepal Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium"
+    },
+    {
+        "name": "Kamal Airee",
+        "Team": "Nepal Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Abinash Bohara",
+        "Team": "Nepal Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Sagar Dhakal",
+        "Team": "Nepal Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Sandeep Lamichhane",
+        "Team": "Nepal Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly"
+    },
+    {
+        "name": "Lalit Rajbanshi",
+        "Team": "Nepal Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Scott Edwards",
+        "Team": "Netherlands Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Wesley Barresi",
+        "Team": "Netherlands Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Michael Levitt",
+        "Team": "Netherlands Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Max O'Dowd",
+        "Team": "Netherlands Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Vikramjit Singh",
+        "Team": "Netherlands Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Bas de Leede",
+        "Team": "Netherlands Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Sybrand Engelbrecht",
+        "Team": "Netherlands Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Teja Nidamanuru",
+        "Team": "Netherlands Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Tim Pringle",
+        "Team": "Netherlands Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Saqib Zulfiqar",
+        "Team": "Netherlands Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Aryan Dutt",
+        "Team": "Netherlands Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Vivian Kingma",
+        "Team": "Netherlands Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Kyle Klein",
+        "Team": "Netherlands Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Logan van Beek",
+        "Team": "Netherlands Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Paul van Meekeren",
+        "Team": "Netherlands Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Daniel Doram",
+        "Team": "Netherlands Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Fred Klaassen",
+        "Team": "Netherlands Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Kane Williamson",
+        "Team": "New Zealand Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Finn Allen",
+        "Team": "New Zealand Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Devon Conway",
+        "Team": "New Zealand Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Michael Bracewell",
+        "Team": "New Zealand Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Mark Chapman",
+        "Team": "New Zealand Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Daryl Mitchell",
+        "Team": "New Zealand Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "James Neesham",
+        "Team": "New Zealand Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Glenn Phillips",
+        "Team": "New Zealand Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Rachin Ravindra",
+        "Team": "New Zealand Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Mitchell Santner",
+        "Team": "New Zealand Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Trent Boult",
+        "Team": "New Zealand Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Lockie Ferguson",
+        "Team": "New Zealand Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Matt Henry",
+        "Team": "New Zealand Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Ish Sodhi",
+        "Team": "New Zealand Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Tim Southee",
+        "Team": "New Zealand Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Aqib Ilyas",
+        "Team": "Oman Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak, Legbreak Googly"
+    },
+    {
+        "name": "Pratik Athavale",
+        "Team": "Oman Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Khalid Kail",
+        "Team": "Oman Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Mehran Khan",
+        "Team": "Oman Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Naseem Khushi",
+        "Team": "Oman Squad",
+        "Player Role": "Wicketkeeper",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Kashyap Prajapati",
+        "Team": "Oman Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Shoaib Khan",
+        "Team": "Oman Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Zeeshan Maqsood",
+        "Team": "Oman Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Ayaan Khan",
+        "Team": "Oman Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Mohammad Nadeem",
+        "Team": "Oman Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Bilal Khan",
+        "Team": "Oman Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast"
+    },
+    {
+        "name": "Fayyaz Butt",
+        "Team": "Oman Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Kaleemullah",
+        "Team": "Oman Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Rafiullah",
+        "Team": "Oman Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Shakeel Ahmed",
+        "Team": "Oman Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Babar Azam",
+        "Team": "Pakistan Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Azam Khan",
+        "Team": "Pakistan Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Fakhar Zaman",
+        "Team": "Pakistan Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Iftikhar Ahmed",
+        "Team": "Pakistan Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Mohammad Rizwan",
+        "Team": "Pakistan Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Saim Ayub",
+        "Team": "Pakistan Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium fast, Right arm Offbreak"
+    },
+    {
+        "name": "Usman Khan",
+        "Team": "Pakistan Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Imad Wasim",
+        "Team": "Pakistan Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Shadab Khan",
+        "Team": "Pakistan Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Abbas Afridi",
+        "Team": "Pakistan Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Abrar Ahmed",
+        "Team": "Pakistan Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly"
+    },
+    {
+        "name": "Haris Rauf",
+        "Team": "Pakistan Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Mohammad Amir",
+        "Team": "Pakistan Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Naseem Shah",
+        "Team": "Pakistan Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Shaheen Shah Afridi",
+        "Team": "Pakistan Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast"
+    },
+    {
+        "name": "Assad Vala",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Sese Bau",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Kiplin Doriga",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Hiri Hiri",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Lega Siaka",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium, Legbreak"
+    },
+    {
+        "name": "Tony Ura",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Hila Vare",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Charles Amini",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Jack Gardner",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "-",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Semo Kamea",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast"
+    },
+    {
+        "name": "John Kariko",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Kabua Morea",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium"
+    },
+    {
+        "name": "Alei Nao",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Chad Soper",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Norman Vanua",
+        "Team": "Papua New Guinea Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Richie Berrington",
+        "Team": "Scotland Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Matthew Cross",
+        "Team": "Scotland Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Ollie Hairs",
+        "Team": "Scotland Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Michael Jones",
+        "Team": "Scotland Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "George Munsey",
+        "Team": "Scotland Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Charlie Tear",
+        "Team": "Scotland Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Michael Leask",
+        "Team": "Scotland Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Brandon McMullen",
+        "Team": "Scotland Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Brad Currie",
+        "Team": "Scotland Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium"
+    },
+    {
+        "name": "Chris Greaves",
+        "Team": "Scotland Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Jack Jarvis",
+        "Team": "Scotland Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Safyaan Sharif",
+        "Team": "Scotland Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Chris Sole",
+        "Team": "Scotland Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Mark Watt",
+        "Team": "Scotland Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Brad Wheal",
+        "Team": "Scotland Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Aiden Markram",
+        "Team": "South Africa Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Quinton de Kock",
+        "Team": "South Africa Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Reeza Hendricks",
+        "Team": "South Africa Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Heinrich Klaasen",
+        "Team": "South Africa Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "David Miller",
+        "Team": "South Africa Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Ryan Rickelton",
+        "Team": "South Africa Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Tristan Stubbs",
+        "Team": "South Africa Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Marco Jansen",
+        "Team": "South Africa Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium fast"
+    },
+    {
+        "name": "Ottneil Baartman",
+        "Team": "South Africa Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Gerald Coetzee",
+        "Team": "South Africa Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Bjorn Fortuin",
+        "Team": "South Africa Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Keshav Maharaj",
+        "Team": "South Africa Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Anrich Nortje",
+        "Team": "South Africa Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Kagiso Rabada",
+        "Team": "South Africa Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Tabraiz Shamsi",
+        "Team": "South Africa Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Wrist spin"
+    },
+    {
+        "name": "Kusal Mendis",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Pathum Nissanka",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Sadeera Samarawickrama",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Wanindu Hasaranga",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak"
+    },
+    {
+        "name": "Charith Asalanka",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Dhananjaya de Silva",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Angelo Mathews",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Kamindu Mendis",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak, Slow Left arm Orthodox"
+    },
+    {
+        "name": "Dasun Shanaka",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Dushmantha Chameera",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Dilshan Madushanka",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Matheesha Pathirana",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Maheesh Theekshana",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Nuwan Thushara",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Dunith Wellalage",
+        "Team": "Sri Lanka Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Fred Achelam",
+        "Team": "Uganda Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Roger Mukasa",
+        "Team": "Uganda Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Robinson Obuya",
+        "Team": "Uganda Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Ronak Patel",
+        "Team": "Uganda Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Simon Ssesazi",
+        "Team": "Uganda Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Slow"
+    },
+    {
+        "name": "Riazat Ali Shah",
+        "Team": "Uganda Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Dinesh Nakrani",
+        "Team": "Uganda Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium"
+    },
+    {
+        "name": "Frank Nsubuga",
+        "Team": "Uganda Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Alpesh Ramjani",
+        "Team": "Uganda Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Kenneth Waiswa",
+        "Team": "Uganda Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Brian Masaba",
+        "Team": "Uganda Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium, Right arm Offbreak, Legbreak Googly"
+    },
+    {
+        "name": "Bilal Hassan",
+        "Team": "Uganda Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Cosmas Kyewuta",
+        "Team": "Uganda Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Juma Miyagi",
+        "Team": "Uganda Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Henry Ssenyondo",
+        "Team": "Uganda Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Monank Patel",
+        "Team": "United States of America Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Aaron Jones",
+        "Team": "United States of America Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly"
+    },
+    {
+        "name": "Andries Gous",
+        "Team": "United States of America Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Nitish Kumar",
+        "Team": "United States of America Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Shayan Jahangir",
+        "Team": "United States of America Squad",
+        "Player Role": "Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Steven Taylor",
+        "Team": "United States of America Squad",
+        "Player Role": "Opening Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Corey Anderson",
+        "Team": "United States of America Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast"
+    },
+    {
+        "name": "Harmeet Singh",
+        "Team": "United States of America Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Milind Kumar",
+        "Team": "United States of America Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Nisarg Patel",
+        "Team": "United States of America Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Shadley van Schalkwyk",
+        "Team": "United States of America Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Ali Khan",
+        "Team": "United States of America Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Jasdeep Singh",
+        "Team": "United States of America Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Nosthush Kenjige",
+        "Team": "United States of America Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Saurabh Netravalkar",
+        "Team": "United States of America Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Rovman Powell",
+        "Team": "West Indies Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Johnson Charles",
+        "Team": "West Indies Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Shimron Hetmyer",
+        "Team": "West Indies Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Shai Hope",
+        "Team": "West Indies Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Nicholas Pooran",
+        "Team": "West Indies Squad",
+        "Player Role": "Wicketkeeper Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Sherfane Rutherford",
+        "Team": "West Indies Squad",
+        "Player Role": "Middle order Batter",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Brandon King",
+        "Team": "West Indies Squad",
+        "Player Role": "Top order Batter",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "-"
+    },
+    {
+        "name": "Roston Chase",
+        "Team": "West Indies Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak"
+    },
+    {
+        "name": "Kyle Mayers",
+        "Team": "West Indies Squad",
+        "Player Role": "Batting Allrounder",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium"
+    },
+    {
+        "name": "Andre Russell",
+        "Team": "West Indies Squad",
+        "Player Role": "Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Romario Shepherd",
+        "Team": "West Indies Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium"
+    },
+    {
+        "name": "Jason Holder",
+        "Team": "West Indies Squad",
+        "Player Role": "Bowling Allrounder",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast"
+    },
+    {
+        "name": "Alzarri Joseph",
+        "Team": "West Indies Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Akeal Hosein",
+        "Team": "West Indies Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    },
+    {
+        "name": "Shamar Joseph",
+        "Team": "West Indies Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast"
+    },
+    {
+        "name": "Obed McCoy",
+        "Team": "West Indies Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium"
+    },
+    {
+        "name": "Gudakesh Motie",
+        "Team": "West Indies Squad",
+        "Player Role": "Bowler",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox"
+    }
+]
